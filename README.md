@@ -12,4 +12,8 @@ Prepared datasets within associated metadata have to be in CF convention to be u
 
 # Extract Information from source data
 
+.[interpolation](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/variable_interpolation.ipynb) for the defined vertical levels.
+
+. Folder [organization](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/variable_by_month_day_depth.ipynb) for the 1-D variable information. 
+
 
