@@ -6,9 +6,9 @@
 
 # Extract Information from source data:
 
-. [interpolation](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/variable_interpolation.ipynb) for the defined vertical levels.
+. [Interpolation](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/Folder%20Management%20for%20the%20CMEMS%20Datasets/variable_interpolation.ipynb) for the defined vertical levels.
 
-. 1-D variable information [organization](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/variable_by_month_day_depth.ipynb). 
+. 1-D variable information [organization](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/Folder%20Management%20for%20the%20CMEMS%20Datasets/variable_by_month_day_depth.ipynb) . 
 
 # [CMEMS-Time Series Analysis](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/CMEMS-Time%20Series%20Analysis) contains:
 
