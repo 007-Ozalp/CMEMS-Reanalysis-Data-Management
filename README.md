@@ -1,14 +1,10 @@
 # [CMEMS-Reanalysis](https://resources.marine.copernicus.eu/products) and Ocean Model Data Management: 
 
-# Source Data Preparation to upload in the Archive and ERDDAP Server
+# Source Data Preparation to upload in the Archive and ERDDAP Server is in the [following folder](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/Folder%20Management%20for%20the%20CMEMS%20Datasets)
 
-Each variable can be managed in the following ways by reading directly from downloaded folders:
+Each variable can be managed by reading datasets directly from downloaded folders:
 
-.[Step1](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/step_1_CMEMS_REANALYSIS_AdriaticSea.ipynb) corrisponds to time:30/31 days and depth level: 74 over Adriatic Sea.
-
-.[Step2](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/step_2_CMEMS_REANALYSIS_AdriaticSea.ipynb) corrisponds to time: 365/366 days and depth level: 74  over Adriatic Sea.
-
-Prepared datasets within associated metadata have to be in CF convention to be uploaded in the ERDDAP Server.
+Prepared datasets within associated metadata have to be in [CF convention](https://ncas-cms.github.io/cf-python/) to be uploaded in the [ERDDAP Server](https://coastwatch.pfeg.noaa.gov/erddap/index.html).
 
 # Extract Information from source data
 
@@ -18,4 +14,4 @@ Prepared datasets within associated metadata have to be in CF convention to be u
 
 # [CMEMS-Time Series Analysis](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/CMEMS-Time%20Series%20Analysis) contains:
 
-TS analysis by years, months and seasons since 1987.
+.TS analysis by years, months and seasons since 1987.
