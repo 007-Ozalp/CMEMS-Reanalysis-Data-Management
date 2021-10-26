@@ -34,6 +34,6 @@
 
 6.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Season Autumn
 
-7. Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Box Plot by Season
+7.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Box Plot by Season
 
 8.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Violin Plot by Season
