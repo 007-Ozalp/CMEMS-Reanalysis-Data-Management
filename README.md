@@ -1,6 +1,6 @@
 # [CMEMS-Reanalysis](https://resources.marine.copernicus.eu/products) and Ocean Model Data Management: 
 
-. Source Data Preparation to upload in the Archive and ERDDAP Server is in the [this folder](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/Folder%20Management%20for%20the%20CMEMS%20Datasets).
+. Source Data Preparation to upload in the Archive and ERDDAP Server is in the [this folder](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/Folder%20Management%20for%20the%20CMEMS%20Datasets) in 2 steps.
 
 . Prepared Ocean datasets within associated metadata have to be in [CF convention](https://ncas-cms.github.io/cf-python/) to be uploaded in the [ERDDAP Server](https://coastwatch.pfeg.noaa.gov/erddap/index.html).
 
