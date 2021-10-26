@@ -44,3 +44,5 @@
 [TS_PLOTS_SEASONAL_SCATTER.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_PLOTS_SEASONAL_SCATTER.ipynb) contains:
 
 . ADRIATIC SEA PHYSICS REANALYSIS-MEAN Temperature per Season within Scatter plot.
+
+[TS_2D_SEASONAL_PLOTS.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_2D_SEASONAL_PLOTS.ipynb) displays 2D maps for the Mean TS seasonal analysis.
