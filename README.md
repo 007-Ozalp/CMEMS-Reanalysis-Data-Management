@@ -4,7 +4,7 @@
 
 . Prepared Ocean datasets within associated metadata have to be in [CF convention](https://ncas-cms.github.io/cf-python/) to be uploaded in the [ERDDAP Server](https://coastwatch.pfeg.noaa.gov/erddap/index.html).
 
-# Extract Information from source data
+# Extract Information from source data:
 
 . [interpolation](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/variable_interpolation.ipynb) for the defined vertical levels.
 
