@@ -6,7 +6,7 @@ Prepared datasets within associated metadata have to be in [CF convention](https
 
 # Extract Information from source data
 
-.[interpolation](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/variable_interpolation.ipynb) for the defined vertical levels.
+. [interpolation](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/variable_interpolation.ipynb) for the defined vertical levels.
 
 . 1-D variable information [organization](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/variable_by_month_day_depth.ipynb). 
 
