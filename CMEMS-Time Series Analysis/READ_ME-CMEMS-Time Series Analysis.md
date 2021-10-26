@@ -37,3 +37,8 @@
 7.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Box Plot by Season
 
 8.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Violin Plot by Season
+
+
+[TS_PLOTS_SEASONAL_SCATTER.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_PLOTS_SEASONAL_SCATTER.ipynb) contains:
+
+.ADRIATIC SEA PHYSICS REANALYSIS-MEAN Temperature per Season within Scatter plot.
