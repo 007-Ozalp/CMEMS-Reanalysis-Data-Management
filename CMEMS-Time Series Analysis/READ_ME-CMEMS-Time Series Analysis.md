@@ -1,4 +1,4 @@
-# CMEMS Time Series Analysis
+# CMEMS Ocean Model Data and Time Series Analysis
 
   Input Datasets: CMEMS Reanalysis Model datasets since 1987 to 2019 (1st Vertical level)
   File types for Temperature at Sea Surface: 
