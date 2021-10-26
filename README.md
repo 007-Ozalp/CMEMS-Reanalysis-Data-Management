@@ -16,4 +16,6 @@ Prepared datasets within associated metadata have to be in CF convention to be u
 
 . Folder [organization](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/variable_by_month_day_depth.ipynb) for the 1-D variable information. 
 
+# [CMEMS-Time Series Analysis](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/CMEMS-Time%20Series%20Analysis) contains:
 
+TS analysis by years, months and seasons since 1987.
