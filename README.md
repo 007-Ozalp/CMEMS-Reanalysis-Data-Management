@@ -12,4 +12,4 @@
 
 # [CMEMS-Time Series Analysis](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/CMEMS-Time%20Series%20Analysis) contains:
 
-.TS analysis by years, months and seasons since 1987.
+. TS analysis by years, months and seasons since 1987.
