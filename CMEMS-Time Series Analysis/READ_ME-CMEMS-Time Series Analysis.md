@@ -7,6 +7,8 @@
   
   2D: .nc
 
+[TS_Analysis_file_conversion.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_Analysis_file_conversion.ipynb) shows file conversion to use in Time Series Analysis.
+
 [TS_PLOTS.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_PLOTS.ipynb) contains:
 
 1.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea
