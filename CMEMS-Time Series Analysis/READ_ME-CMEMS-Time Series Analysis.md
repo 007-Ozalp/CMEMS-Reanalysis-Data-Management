@@ -2,7 +2,9 @@
 
   Input Datasets: CMEMS Reanalysis Model Sea Surface Temperature data from 1987 to 2019 at 1st Vertical level.
   
-  File types for Temperature at Sea Surface: 
+  Programming language is in Python through Anaconda [Jupyter Lab](https://jupyter.org/).
+  
+  File format types for Temperature at Sea Surface are: 
   
             1D: .csv and .nc 
   
