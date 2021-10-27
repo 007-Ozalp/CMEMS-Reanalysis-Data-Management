@@ -18,7 +18,7 @@
         
            1.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea
 
-           2.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Annual Boxplot
+           2.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea [Annual Boxplot](**This text will be bold**)
 
            3.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Monthly Boxplot
 
