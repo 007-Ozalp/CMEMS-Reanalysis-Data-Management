@@ -1,6 +1,6 @@
 # CMEMS Ocean Model Data Time Series Analysis
 
-  Input Dataset: CMEMS Reanalysis Model Sea Surface Temperature data from 1987 to 2019 at 1st Vertical level.
+  Input Dataset: CMEMS Reanalysis Model Sea Surface Temperature from 1987 to 2019 (==Water Potential Temperature at 1st Vertical level).
   
   Programming language is in Python through Anaconda [Jupyter Lab](https://jupyter.org/).
   
