@@ -1,11 +1,12 @@
 # CMEMS Ocean Model Data and Time Series Analysis
 
-  Input Datasets: CMEMS Reanalysis Model datasets since 1987 to 2019 (1st Vertical level)
+  Input Datasets: CMEMS Reanalysis Model Sea Surface Temperature data from 1987 to 2019 at 1st Vertical level.
+  
   File types for Temperature at Sea Surface: 
   
-  1D: .csv, .nc and 
+            1D: .csv and .nc 
   
-  2D: .nc
+            2D: .nc
   
   Python libraries: [Xarray](https://pypi.org/project/xarray/), [Numpy](https://pypi.org/project/numpy/), [Matplotlib](https://pypi.org/project/matplotlib/), [Seaborn](https://pypi.org/project/seaborn/), [Statsmodel](https://pypi.org/project/statsmodels/) and [Cartopy](https://pypi.org/project/Cartopy/)
 
