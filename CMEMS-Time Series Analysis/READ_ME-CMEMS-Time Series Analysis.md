@@ -20,11 +20,11 @@
 
            2.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea **Annual Boxplot**
 
-           3.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Monthly Boxplot
+           3.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea **Monthly Boxplot**
 
-           4.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Monthly Violin plot
+           4.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea **Monthly Violin plot**
 
-           5.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Monthly Cat plot
+           5.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea **Monthly Cat plot**
 
 
 . [TS_PLOTS_SEASONAL.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_PLOTS_SEASONAL.ipynb) contains:
