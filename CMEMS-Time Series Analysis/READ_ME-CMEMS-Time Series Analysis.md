@@ -1,10 +1,13 @@
 # CMEMS Ocean Model Data Time Series Analysis
 
-  Input Dataset: CMEMS Reanalysis Model Sea Surface Temperature from 1987 to 2019 (==Water Potential Temperature at 1st Vertical level).
+  Input Dataset: 
+          
+            CMEMS Reanalysis Model Sea Surface Temperature from 1987 to 2019 (==Water Potential Temperature at 1st Vertical level).
   
   Programming language is in Python through Anaconda [Jupyter Lab](https://jupyter.org/).
   
-  Python libraries: [Xarray](https://pypi.org/project/xarray/), [Numpy](https://pypi.org/project/numpy/), [Matplotlib](https://pypi.org/project/matplotlib/), [Seaborn](https://pypi.org/project/seaborn/), [Statsmodel](https://pypi.org/project/statsmodels/) and [Cartopy](https://pypi.org/project/Cartopy/)
+  Python libraries: 
+            [Xarray](https://pypi.org/project/xarray/), [Numpy](https://pypi.org/project/numpy/), [Matplotlib](https://pypi.org/project/matplotlib/), [Seaborn](https://pypi.org/project/seaborn/), [Statsmodel](https://pypi.org/project/statsmodels/) and [Cartopy](https://pypi.org/project/Cartopy/)
 
 . [TS_Analysis_file_conversion.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_Analysis_file_conversion.ipynb) shows file conversion to use in Time Series Analysis. File format types are: 
   
