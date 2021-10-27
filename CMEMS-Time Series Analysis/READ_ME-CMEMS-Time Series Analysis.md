@@ -22,7 +22,7 @@
 
            3.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Monthly Boxplot.
 
-           4.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea <b>Monthly Violin plot</b>.
+           4.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea __Monthly Violin plot__ .
 
            5.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea **Monthly Cat plot**.
 
