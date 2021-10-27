@@ -30,7 +30,7 @@
 . [TS_PLOTS_SEASONAL.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_PLOTS_SEASONAL.ipynb) contains:
 
          1D .NC file format
-           
+        
            1.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea.
 
            2.Temperature at Sea Surfacefrom 1987 to 2019 over Adriatic Sea within **Histogram**.
@@ -53,3 +53,21 @@
             ADRIATIC SEA PHYSICS REANALYSIS-MEAN Temperature per Season within **Scatter plot**. 
 
 . [TS_2D_SEASONAL_PLOTS.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_2D_SEASONAL_PLOTS.ipynb) displays **2D maps for the Mean TS analysis**.
+
+. [Rolling_month_year.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/Rolling_month_year.ipynb) contains:
+ 
+              ################################################????????????????????????????????????????????????????????################################################
+              
+         1D .NC file format
+         
+            1. Sea Surface Temperature from 1987 to 2019 over Adriatic Sea.
+            
+            2. Mean Sea Surface Temperature from 1987 to 2019 over Adriatic Sea within TS by year. 
+            
+            3. Mean Sea Surface Temperature from 1987 to 2019 over Adriatic Sea within TS by month.
+            
+            4. Rolling Mean=12 Sea Surface Temperature by MONTH from 1987 to 2019 over Adriatic Sea.
+            
+            5. Rolling Mean=33 Sea Surface Temperature by YEAR from 1987 to 2019 over Adriatic Sea.
+           
+             ################################################????????????????????????????????????????????????????????################################################
