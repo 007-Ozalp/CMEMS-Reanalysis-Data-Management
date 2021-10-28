@@ -58,16 +58,6 @@
 
 . [TS_2D_SEASONAL_PLOTS.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_2D_SEASONAL_PLOTS.ipynb) displays 2D maps for the Mean TS analysis.
 
-.  contains:
-               
-         1D .NC file format
-         
-            1. Sea Surface Temperature from 1987 to 2019 over Adriatic Sea.
-            
-            2. Mean Sea Surface Temperature from 1987 to 2019 over Adriatic Sea within TS by year. 
-            
-            3. Mean Sea Surface Temperature from 1987 to 2019 over Adriatic Sea within TS by month.
- 
 
 ![image](https://user-images.githubusercontent.com/80483194/139126823-a560d67d-76cd-4d88-9adb-3931160ec1b1.png)
 
