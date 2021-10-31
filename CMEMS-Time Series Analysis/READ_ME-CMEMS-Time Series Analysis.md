@@ -10,45 +10,12 @@
 
 . [TS_Analysis_file_conversion.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_Analysis_file_conversion.ipynb) shows file conversion to use in Time Series Analysis. File format types are: 
   
-            1D: .csv and .nc 
-  
-            2D: .nc
 
 . [TS_PLOTS.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_PLOTS.ipynb) contains:
 
-        1D .CSV file format
-        
-           1.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea.
-
-           2.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Annual Boxplot.
-
-           3.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Monthly Boxplot.
-
-           4.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Monthly Violin plot.  
-
-           5.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea Monthly Cat plot.
 
 . [TS_PLOTS_SEASONAL-MEANS.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_PLOTS_SEASONAL-MEANS.ipynb) contains:
 
-         1D .NC file format
-        
-           1.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea.
-
-           2.Temperature at Sea Surfacefrom 1987 to 2019 over Adriatic Sea within Histogram.
-
-           3.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Season Winter.
-
-           4.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Season Summer.
-
-           5.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Season Spring.
-
-           6.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Season Autumn.
-
-           7.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Box Plot by Season.
-           
-           8.Temperature at Sea Surface from 1987 to 2019 over Adriatic Sea-Violin Plot by Season.
-           
-           9.TS CMEMS Reanalysis Sea Surface Temperature from1987 to 2019 AdriaticSea Seasonal Means.
            
 . [ROLLING_CSV_WS_12.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/ROLLING_CSV_WS_12.ipynb) and [ROLLING_WS_12.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/ROLLING_WS_12.ipynb) contain Monthly rolling mean within window size= 12. 
 
@@ -57,8 +24,5 @@
             ADRIATIC SEA PHYSICS REANALYSIS-MEAN Temperature per Season within Scatter plot. 
 
 . [TS_2D_SEASONAL_PLOTS.ipynb](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/TS_2D_SEASONAL_PLOTS.ipynb) displays 2D maps for the Mean TS analysis.
-
-
-![image](https://user-images.githubusercontent.com/80483194/139126823-a560d67d-76cd-4d88-9adb-3931160ec1b1.png)
 
 
