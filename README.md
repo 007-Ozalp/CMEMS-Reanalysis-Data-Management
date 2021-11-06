@@ -14,8 +14,8 @@
 
       TS Analysis is from **1987 to 2019 at Sea Surface Temperature**.
   
-   [READ_ME-CMEMS-Time Series Analysis.md](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/READ_ME-CMEMS-Time%20Series%20Analysis.md) contains information about plots.
+  ..... [READ_ME-CMEMS-Time Series Analysis.md](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/READ_ME-CMEMS-Time%20Series%20Analysis.md) contains information about plots.
 
   **[DASHBOARD INTERACTIVE](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/DASHBOARD%20INTERACTIVE)**:
 
-   [READ_ME.MD](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/DASHBOARD%20INTERACTIVE/READ_ME.MD) contains plot examples.
+ ..... [READ_ME.MD](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/DASHBOARD%20INTERACTIVE/READ_ME.MD) contains plot examples.
