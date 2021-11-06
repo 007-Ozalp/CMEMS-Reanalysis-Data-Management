@@ -4,7 +4,7 @@
 
 . Prepared Ocean datasets within associated metadata have to be in [CF convention](https://ncas-cms.github.io/cf-python/) to be uploaded in the [ERDDAP Server](https://coastwatch.pfeg.noaa.gov/erddap/index.html).
 
-. Python libraries: [Xarray](https://pypi.org/project/xarray/), [Numpy](https://pypi.org/project/numpy/), [Matplotlib](https://pypi.org/project/matplotlib/), [Seaborn](https://pypi.org/project/seaborn/), [Statsmodel](https://pypi.org/project/statsmodels/) and [Cartopy](https://pypi.org/project/Cartopy/)
+. Python libraries: [Xarray](https://pypi.org/project/xarray/), [Numpy](https://pypi.org/project/numpy/), [Matplotlib](https://pypi.org/project/matplotlib/), [Seaborn](https://pypi.org/project/seaborn/), [Statsmodel](https://pypi.org/project/statsmodels/), [Cartopy](https://pypi.org/project/Cartopy/) and [Dash](https://plotly.com/dash/).
 
 
 # [Folder Management for the CMEMS Datasets](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/Folder%20Management%20for%20the%20CMEMS%20Datasets):
