@@ -13,12 +13,12 @@
 
 . 1-D variable information [organization](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/Folder%20Management%20for%20the%20CMEMS%20Datasets/variable_by_month_day_depth.ipynb) . 
 
-# [CMEMS-Time Series Analysis](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/CMEMS-Time%20Series%20Analysis) contains:
+# [CMEMS-Time Series Analysis](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/CMEMS-Time%20Series%20Analysis):
 
 . [READ_ME-CMEMS-Time Series Analysis.md](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/READ_ME-CMEMS-Time%20Series%20Analysis.md) contains information about plots.
 
 . TS analysis by years, months and seasons since 1987.
 
-# [DASHBOARD INTERACTIVE](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/DASHBOARD%20INTERACTIVE)
+# [DASHBOARD INTERACTIVE](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/DASHBOARD%20INTERACTIVE):
 
 [READ_ME.MD](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/DASHBOARD%20INTERACTIVE/READ_ME.MD) contains plot examples.
