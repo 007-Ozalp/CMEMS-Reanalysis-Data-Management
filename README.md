@@ -7,18 +7,18 @@
 . Python libraries: [Xarray](https://pypi.org/project/xarray/), [Numpy](https://pypi.org/project/numpy/), [Matplotlib](https://pypi.org/project/matplotlib/), [Seaborn](https://pypi.org/project/seaborn/), [Statsmodel](https://pypi.org/project/statsmodels/), [Cartopy](https://pypi.org/project/Cartopy/) and [Dash](https://plotly.com/dash/).
 
 
- **[Folder Management for the CMEMS Datasets](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/Folder%20Management%20for%20the%20CMEMS%20Datasets):
+ **[Folder Management for the CMEMS Datasets](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/Folder%20Management%20for%20the%20CMEMS%20Datasets)**:
 
 . [Interpolation](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/Folder%20Management%20for%20the%20CMEMS%20Datasets/variable_interpolation.ipynb) for the defined vertical levels.
 
 . 1-D variable information [organization](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/Folder%20Management%20for%20the%20CMEMS%20Datasets/variable_by_month_day_depth.ipynb) . 
 
- **[CMEMS-Time Series Analysis](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/CMEMS-Time%20Series%20Analysis):
+ **[CMEMS-Time Series Analysis](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/CMEMS-Time%20Series%20Analysis)**:
 
   TS Analysis is from **1987 to 2019 at Sea Surface Temperature**.
   
 [READ_ME-CMEMS-Time Series Analysis.md](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/CMEMS-Time%20Series%20Analysis/READ_ME-CMEMS-Time%20Series%20Analysis.md) contains information about plots.
 
-**[DASHBOARD INTERACTIVE](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/DASHBOARD%20INTERACTIVE):
+**[DASHBOARD INTERACTIVE](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/tree/main/DASHBOARD%20INTERACTIVE)**:
 
 [READ_ME.MD](https://github.com/007-Ozalp/CMEMS-Reanalysis-Data-Management/blob/main/DASHBOARD%20INTERACTIVE/READ_ME.MD) contains plot examples.
